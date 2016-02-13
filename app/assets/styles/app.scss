@@ -1,0 +1,10 @@
+@import 'variables';
+
+// bower:scss
+@import "../vendor/bootstrap/scss/bootstrap.scss";
+// endbower
+
+.custom-style
+{
+    color: #333;
+}

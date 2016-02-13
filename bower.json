@@ -1,0 +1,23 @@
+{
+    "name": "gulp-symfony",
+    "description": "Symfony assets management with Gulp",
+    "main": "",
+    "authors": [
+        "Marcin Makałowski <makao@makao.pl>"
+    ],
+    "license": "MIT",
+    "moduleType": [],
+    "homepage": "https://github.com/makao/gulp-symfony",
+    "private": true,
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "app/assets/vendor",
+        "test",
+        "tests"
+    ],
+    "dependencies": {
+        "bootstrap": "4.0"
+    }
+}
